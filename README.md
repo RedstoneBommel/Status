@@ -3,10 +3,12 @@
 With this Status Datapack you easily could show your Server Members your activity  status.
 
 To set a Status use the `/trigger` command:
-![image](https://github.com/user-attachments/assets/21c515db-e84b-4d98-8b6a-a176b6144e04)
+![image](https://github.com/user-attachments/assets/e47085a2-8748-420b-b827-21cd67a5fcb1)
+
 
 If you have set a new status, it will look like this:
-![image](https://github.com/user-attachments/assets/9a06305c-fe09-4a0b-a4e0-4d35d58c91ed)
+![2024-08-16_12 44 40](https://github.com/user-attachments/assets/7c79685e-100b-4675-9fd0-aace794f1d8d)
+
 
 To remove any Status, you must run the command `/trigger none`.
 
